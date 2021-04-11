@@ -1,6 +1,6 @@
 Reusable library customized or extended from open source
 
-root
+cintegral
 -
 	algo
 	
