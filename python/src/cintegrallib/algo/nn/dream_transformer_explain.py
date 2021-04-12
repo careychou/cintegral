@@ -1,8 +1,8 @@
 import tensorflow as tf
 import numpy as np
 import plotly.express as px
-from cmaicore.algo.dream import dream_transformer as dream_tr
-from cmaicore.algo.grads import opt
+from cintegrallib.algo.nn import dream_transformer as dream_tr
+from cintegrallib.algo.nn import opt
 
 assert  tf.__version__ == '1.15.0'
 tf.enable_eager_execution()

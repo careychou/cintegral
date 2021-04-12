@@ -10,7 +10,6 @@ tf.enable_eager_execution()
 ##
 ## 2nd order factorization machine is inserted to learn interaction between items embeddings in basket
 ##
-## carey.h.chou@gmail.com
 ##
 
 class DreamTransformer:
